@@ -1,5 +1,5 @@
 homepage: "https://bigcommerce.websiteadvantage.com.au/tag-rocket/"
 documentation: "https://bigcommerce.websiteadvantage.com.au/tag-rocket/articles/google-consent-mode-v2-and-bigcommerce/"
 versions:
-  - sha: 6997124fd761290782b9a8e4bf8e42fbb665d78f
+  - sha: 485f98bd0c0b926898a542b65272046662a62312
     changeNotes: Initial release.

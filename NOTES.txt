@@ -1,0 +1,3 @@
+How to submit to the gallery
+
+https://developers.google.com/tag-platform/tag-manager/templates/gallery
